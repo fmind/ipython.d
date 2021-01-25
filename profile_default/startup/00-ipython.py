@@ -1,4 +1,4 @@
-"""Initialize the ipython profile."""
+"""Initialize the IPython profile."""
 
 from IPython import get_ipython
 

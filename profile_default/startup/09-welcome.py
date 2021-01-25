@@ -1,3 +1,3 @@
-"""Initialize the profile welcome."""
+"""Initialize the welcome message."""
 
 print("\nWelcome to your shell fmind.")
